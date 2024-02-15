@@ -1,4 +1,4 @@
-**Laravel Gig Board**
+## Laravel Gig Board
 
 A comprehensive web application for finding and posting Laravel development gigs.
 
